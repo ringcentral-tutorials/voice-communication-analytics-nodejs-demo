@@ -1,0 +1,10 @@
+*.swp
+*.swo
+*.log
+*.env
+*.config
+*.pem
+.env
+node_modules
+npm-debug.log
+package-lock.json
