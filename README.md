@@ -6,4 +6,5 @@ $ git clone https://github.com/ringcentral-tutorials/voice-communication-analyti
 
 # Install dependencies
 $ cd voice-communication-analytics-nodejs-demo
+
 $ npm install --save
