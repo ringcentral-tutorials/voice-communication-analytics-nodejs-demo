@@ -7,8 +7,8 @@ var haven = require('./hpe');
 
 
 var speechToText = new watson.SpeechToTextV1({
-  username: process.env.WATSON_USERNAME,
-  password: process.env.WATSON_PWD,
+  username: process.env.WATSON_SPEECHTOTEXT_USERNAME,
+  password: process.env.WATSON_SPEECHTOTEXT_PWD,
   url: 'https://stream.watsonplatform.net/speech-to-text/api/'
 });
 
